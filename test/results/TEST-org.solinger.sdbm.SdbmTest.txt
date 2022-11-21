@@ -1,0 +1,45 @@
+Testsuite: org.solinger.sdbm.SdbmTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 3,314.326 sec
+------------- Standard Output ---------------
+Current size: 250000 low: 1 high: 500000
+SUCCESS: No loss with  250000 entries
+Current size: 375000 low: 250001 high: 500000
+SUCCESS: No loss with  375000 entries
+Current size: 437500 low: 375001 high: 500000
+SUCCESS: No loss with  437500 entries
+Current size: 468750 low: 437501 high: 500000
+SUCCESS: No loss with  468750 entries
+Current size: 484375 low: 468751 high: 500000
+SUCCESS: No loss with  484375 entries
+Current size: 492188 low: 484376 high: 500000
+SUCCESS: No loss with  492188 entries
+Current size: 496094 low: 492189 high: 500000
+SUCCESS: No loss with  496094 entries
+Current size: 498047 low: 496095 high: 500000
+SUCCESS: No loss with  498047 entries
+Current size: 499024 low: 498048 high: 500000
+SUCCESS: No loss with  499024 entries
+Current size: 499512 low: 499025 high: 500000
+SUCCESS: No loss with  499512 entries
+Current size: 499756 low: 499513 high: 500000
+SUCCESS: No loss with  499756 entries
+Current size: 499878 low: 499757 high: 500000
+SUCCESS: No loss with  499878 entries
+Current size: 499939 low: 499879 high: 500000
+SUCCESS: No loss with  499939 entries
+Current size: 499970 low: 499940 high: 500000
+SUCCESS: No loss with  499970 entries
+Current size: 499985 low: 499971 high: 500000
+SUCCESS: No loss with  499985 entries
+Current size: 499993 low: 499986 high: 500000
+SUCCESS: No loss with  499993 entries
+Current size: 499997 low: 499994 high: 500000
+SUCCESS: No loss with  499997 entries
+Current size: 499999 low: 499998 high: 500000
+SUCCESS: No loss with  499999 entries
+Current size: 500000 low: 500000 high: 500000
+SUCCESS: No loss with  500000 entries
+Stopped at: 500000 in 3269 seconds and 19 iterations
+------------- ---------------- ---------------
+
+Testcase: testIt took 3,314.324 sec
