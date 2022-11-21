@@ -9,3 +9,6 @@ caches as it is quite fast for but put and get operations.
 
 This software is a part of the SoLinger Java Protocols Project at 
 http://solinger.sourceforge.net/
+
+attention conservation notice: I have not tried to build this recently.
+If there are any build issues, let me know, or give me a PR. -- oz
